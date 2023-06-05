@@ -2,6 +2,8 @@ FakeProductDetectionBlockchain
 
 This repository contains a Fake Product Detection application, built using the Ethereum blockchain and web development technologies. The application allows users to register and verify product authenticity, helping to combat the issue of counterfeit products in the market.
 
+Live Demo:  https://fake-product-detection21.netlify.app/
+
 Technologies Used
 
 Solidity: The smart contract language used to develop the Fake Product Detection smart contract. Ethereum: The blockchain network utilized for decentralized product registration and verification. Web3.js: A JavaScript library for interacting with the Ethereum blockchain, used to connect the frontend with the smart contract. HTML/CSS: The markup and styling languages used for building the user interface of the application. JavaScript: The programming language used for frontend logic and handling user interactions.
