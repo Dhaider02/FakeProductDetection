@@ -16,6 +16,8 @@ Deploy the smart contract: Deploy the MyContract.sol smart contract on the desir
 ![image](https://github.com/Dhaider02/FakeProductDetection/assets/134284905/13ac66ee-005d-449e-9665-ca04d5c62d31)
 ![image](https://github.com/Dhaider02/FakeProductDetection/assets/134284905/612b04d6-8378-4a47-b7b5-c999ffa96e56)
 ![image](https://github.com/Dhaider02/FakeProductDetection/assets/134284905/6c979210-9549-42dd-8ff6-db0a0fe98f6c)
+![image](https://github.com/Dhaider02/FakeProductDetection/assets/134284905/42a9f371-af79-4bb2-b1b1-c0e885a2ece5)
+
 
 
 ![image](https://github.com/Dhaider02/FakeProductDetection/assets/134284905/6726546d-f695-4bd9-9b9d-c05e24f6fb5f)
